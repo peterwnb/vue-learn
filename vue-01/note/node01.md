@@ -27,13 +27,13 @@
   `Project description (A Vue.js project)` 直接回车默认   
   `Author` 写你自己的名字    
 - ###### 安装项目依赖   
-  一定要从官方仓库安装，npm服务器在国外，所以这一步安装速度会很慢
-> mpm install   
+  一定要从官方仓库安装，npm服务器在国外，所以这一步安装速度会很慢   
+  `mpm install`      
 
-  不要从国内镜像cnpm下载（会导致后面缺是很多依赖库）
-> cnpm install   
+  不要从国内镜像cnpm下载（会导致后面缺是很多依赖库）   
+  `cnpm install`   
 
 - ###### 安装vue路由模块 `vue-router` 和 网络请求模块`vue-resource`   
-> cnpm install vue-router vue-resource --save   
+  `cnpm install vue-router vue-resource --save`   
 - ###### 启动项目
-> npm run dev
+  `npm run dev`
